@@ -1,3 +1,4 @@
 .env
 .venv
 data/
+index_storage/
